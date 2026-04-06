@@ -1,0 +1,23 @@
+# GitexQR
+
+Mini landing page personnelle, pensée pour être partagée via QR code lors d'evenements tech.
+
+## Ce que contient le projet
+- Une page unique HTML/CSS, sans dependances ni build.
+- Un bloc profil avec avatar et CTA principal (LinkedIn).
+- Une grille de liens (GitHub, YouTube, blog, email).
+- Une section portfolio pour mettre en avant produits et projets.
+- Un rendu mobile-first, propre aussi sur desktop.
+
+## Lancer le projet
+1. Clonez le depot.
+2. Ouvrez index.html dans votre navigateur.
+3. (Optionnel) Deployer sur GitHub Pages, Netlify ou Vercel.
+
+## Personnalisation rapide
+- Contenu et liens: index.html
+- Avatar: avatar.jpg
+- Couleurs, espacements, styles: variables CSS dans :root
+
+## Stack
+HTML5, CSS3, SVG inline.
